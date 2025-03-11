@@ -47,15 +47,16 @@ theme_variables:
   # toc:
   #   min_headings: 2
   #   headings: 'h2'
-  # topnav:
-    # theme: light
+   topnav:
+     theme: dark
+     brand_logo: assets/img/OSCARS-logo-white.svg
     # brand_logo: assets/img/main_logo.svg
     # github: true
     # twitter: false
     # bluesky: false
     # linkedin: false
     # fosstodon: false
-  # theme_color: 0d6efd
+   theme_color: 80519a
   # fonts:
   #   - url towards a font
 

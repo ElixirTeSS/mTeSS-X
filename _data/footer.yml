@@ -2,10 +2,9 @@ copyright: Copyright notice
 extra_line: 
 columns:
   - type: image
-    image_width: 88px
     width: 2
-    src: 'assets/img/main_logo.svg'
-    alt: Jekyll Bootstrap theme logo
+    src: 'assets/img/OSCARS-logo-colour.svg'
+    alt: OSCARS logo
   - type: links
     width: 3
     children: 
@@ -14,11 +13,11 @@ columns:
   - type: links
     width: 3
     children: 
-      - url_text: Example page
-        url: /example_page
+      - url_text: How to get involved
+        url: /get-involved
   - type: image
     image_width: 88px
     width: 2
-    src: 'assets/img/main_logo.svg'
-    alt: Jekyll Bootstrap theme logo
+    src: 'assets/img/Flag_of_Europe.svg'
+    alt: Funded by the Europe Union
 

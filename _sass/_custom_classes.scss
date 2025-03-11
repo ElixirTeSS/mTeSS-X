@@ -10,3 +10,21 @@
         border-radius: $border-radius;
     }
 }
+
+
+header .navbar .navbar-brand {
+    color: white;
+}
+
+
+/*-----Locally hosted font-----*/
+@font-face {
+    font-family: "PlusJakartaSans-VariableFont_wght";
+    src: url('/assets/fonts/PlusJakartaSans-VariableFont_wght.woff') format('woff');
+}
+
+@font-face {
+    font-family: "PlusJakartaSans-Italic-VariableFont_wght";
+    src: url('/assets/fonts/PlusJakartaSans-Italic-VariableFont_wght.woff') format('woff');
+    font-style: italic;
+}
