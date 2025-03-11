@@ -17,14 +17,14 @@ header .navbar .navbar-brand {
 }
 
 
-/*-----Locally hosted font-----*/
+/*-----Locally hosted font-----*/ // assuming the repo is called mTeSS-X, GHP served within ELIXIRTeSS
 @font-face {
     font-family: "PlusJakartaSans-VariableFont_wght";
-    src: url('/assets/fonts/PlusJakartaSans-VariableFont_wght.woff') format('woff');
+    src: url('/mTeSS-X/assets/fonts/PlusJakartaSans-VariableFont_wght.woff') format('woff');
 }
 
 @font-face {
     font-family: "PlusJakartaSans-Italic-VariableFont_wght";
-    src: url('/assets/fonts/PlusJakartaSans-Italic-VariableFont_wght.woff') format('woff');
+    src: url('/mTeSS-X/assets/fonts/PlusJakartaSans-Italic-VariableFont_wght.woff') format('woff');
     font-style: italic;
 }
