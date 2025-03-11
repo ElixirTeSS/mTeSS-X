@@ -41,3 +41,11 @@ header .navbar .navbar-brand {
 .index-splash p {
     padding-left: 0.5em;
 }
+
+
+/* centered graphics on the objectives pages */
+figure.graphic-objective {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 70%;
+}
