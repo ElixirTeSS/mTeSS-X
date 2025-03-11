@@ -49,7 +49,6 @@ theme_variables:
   #   headings: 'h2'
    topnav:
      theme: dark
-     brand_logo: assets/img/OSCARS-logo-white.svg
     # brand_logo: assets/img/main_logo.svg
     # github: true
     # twitter: false
