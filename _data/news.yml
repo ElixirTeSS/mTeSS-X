@@ -1,3 +1,6 @@
 - name: Project begins
   date: 2024-10-01
-  description: "The OSCARS projects begins"
+  description: "The OSCARS projects begins."
+- name: Presentation at OSCARS annual general meeting in Rome, Italy
+  date: 2025-03-03
+  description: "Oliver Knodel presents the mTeSS-X project at the first OSCARS AGM."
