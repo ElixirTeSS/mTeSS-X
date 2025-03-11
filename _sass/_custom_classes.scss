@@ -28,3 +28,16 @@ header .navbar .navbar-brand {
     src: url('/mTeSS-X/assets/fonts/PlusJakartaSans-Italic-VariableFont_wght.woff') format('woff');
     font-style: italic;
 }
+
+
+
+/* Index splash feature */
+.index-splash h3 {
+    padding: 0.5em;
+    background: $dark;
+    color: white;
+}
+
+.index-splash p {
+    padding-left: 0.5em;
+}
