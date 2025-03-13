@@ -23,7 +23,7 @@ title: "mTeSS-X: Scaling training portal federation for RIs through Multi-tenant
   <div class="col-12 col-lg-4"><img src="images/ri-350x160.svg" alt="Research Infrastructures for life sciences and photo neutron sciences" /></div>
 </div>
 
-The project strives to support the federation of training catalogues using a multi-tenancy approach, and enabling cross-instance content exchange (remove this first phrase). This will allow RIs and their communities to maintain tailored catalogues with distinct identities, while simultaneously benefiting from a shared global pool of resources.
+ This will allow RIs and their communities to maintain tailored catalogues with distinct identities, while simultaneously benefiting from a shared global pool of resources.
 
 * [View the project page on the OSCARS website](https://www.oscars-project.eu/projects/mtess-x-scaling-training-portal-federation-ris-through-multi-tenanting-and-exchange)
 
