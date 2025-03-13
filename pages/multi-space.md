@@ -14,7 +14,7 @@ A single TeSS instance presents multiple tailored catalogues whose selections of
 Each community registers, maintains and curates their material for their  members in their own virtual space in the common portal environment. 
 </p>
 <p>
-We will show merging of the ELIXIR and PaN-Training portals into one managed instance 
+We will show merging of the ELIXIR and PaN-Training portals into one managed instance (e.g., mTeSS-X)
 yet presenting these as apparently independent portals with the benefit of shared content. 
 </p>
 </div>
