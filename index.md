@@ -5,23 +5,24 @@ title: "mTeSS-X: Scaling training portal federation for RIs through Multi-tenant
 <div class="row">
   <div class="col-12 col-lg-8">
     To overcome fragmentation of training resources across Research Infrastructures (RIs)
-    and the Science Clusters, the mTeSS-X project will enhance the existing 
-    <a href="https://tess.elixir-europe.org/about">TeSS platform</a> &mdash; 
-    developed by <a href="https://elixir-europe.org/">ELIXIR</a> specifically 
-    for building aggregator training portals, 
-    and currently used in ELIXIR and 
+    and the Science Clusters, the mTeSS-X project aims to enhance the existing 
+    <a href="https://tess.elixir-europe.org/about"> ELIXIR TeSS platform</a> &mdash; 
+to build an aggregator for training portals like ELIXIR TeSS and 
     <a href="https://www.panosc.eu/training-catalogue/">PaNOSC training portals</a>
     &mdash; to natively support federation. 
+    
     Such a fully-featured open-source multi-tenanted training platform is expected to be an 
-    innovation for building a federation of portals to
-    help break down barriers between thematic communities, promote a more cohesive
-    European research community, and promote FAIR and open training.
+    innovation for building a federation of portals to:
+    - help break down barriers between thematic communities,
+    - promote a more cohesive European research community, 
+    - and promote FAIR and open training.
   </div>
   
   <div class="col-12 col-lg-4"><img src="images/ri-350x160.svg" alt="Research Infrastructures for life sciences and photo neutron sciences" /></div>
 </div>
 
-The project strives to support the federation of training catalogues using a multi-tenancy approach, and enabling cross-instance content exchange. This will allow RIs and their communities to maintain tailored catalogues with distinct identities, while simultaneously benefiting from a shared global pool of resources.
+The project strives to support the federation of training catalogues using a multi-tenancy approach, and enabling cross-instance content exchange. 
+This will allow RIs and their communities to maintain tailored catalogues with distinct identities, while simultaneously benefiting from a shared global pool of resources.
 
 * [View the project page on the OSCARS website](https://www.oscars-project.eu/projects/mtess-x-scaling-training-portal-federation-ris-through-multi-tenanting-and-exchange)
 
