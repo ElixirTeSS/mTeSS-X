@@ -29,5 +29,5 @@ To do this, we will arrange events such as the User Requirements Gathering meeti
 
 ### TeSS project meeting
 
-* Every Monday, 11:00 CET/CEST
+* Every Monday, 09:00 GMT/BST / 10:00 CET/CEST
 * [Contact us to join the project meetings](contact)
