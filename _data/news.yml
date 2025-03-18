@@ -1,6 +1,12 @@
 - name: Project begins
   date: 2024-10-01
-  description: "The OSCARS projects begins."
+  description: "The 1st call [OSCARS projects begin](https://oscars-project.eu/news/browse-open-science-projects-and-services-funded-1st-oscars-open-call)."
+- name: Presentation at EOSC Winter School 2025 in Seville, Spain
+  date: 2025-01-20
+  description: "Munazah Andrabi presents the mTeSS-X project to the EOSC community at the [EOSC Winter School 2025](https://eosc.eu/eosc-focus-project/winter-school-2025/)."
 - name: Presentation at OSCARS annual general meeting in Rome, Italy
   date: 2025-03-03
-  description: "Oliver Knodel presents the mTeSS-X project at the first OSCARS AGM."
+  description: "Oliver Knodel presents the mTeSS-X project at the [first OSCARS AGM](https://oscars-project.eu/events/1st-oscars-annual-general-meeting)."
+- name: Presentation at Physical Sciences Data Institute forum in Edinburgh, UK
+  date: 2025-03-06
+  description: "Phil Reed presents the mTeSS-X project to the [PSDI and DCC research data communities](https://www.psdi.ac.uk/event/research-data-forum-2025/). [doi:10.5281/zenodo.14987388](https://doi.org/10.5281/zenodo.14987388)"
