@@ -56,7 +56,7 @@ The project strives to support the federation of training catalogues using a mul
 Life sciences, Photon/neutron sources-based experimental research
 
 ### Partners
-[The University of Manchester](https://www.manchester.ac.uk/), [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de/db/Cms?pOid=44909&pNid=0&pLang=en)
+[The University of Manchester](https://www.manchester.ac.uk/), [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de/db/Cms?pOid=44909&pNid=0&pLang=en), [University of Limerick](https://www.ul.ie/), [University of Tartu](https://ut.ee/en)
 
 ### Project team members
 Carole Goble (Principle Investigator, The University of Manchester), Oliver Knodel (Helmholtz-Zentrum Dresden-Rossendorf), Finn Bacall (The University of Manchester), Phil Reed (The University of Manchester), Munazah Andrabi (The University of Manchester), Maria Doyle (University of Limerick), Hedi Peterson (TARTU ULIKOOL)
