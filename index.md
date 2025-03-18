@@ -58,5 +58,11 @@ Life sciences, Photon/neutron sources-based experimental research
 ### Partners
 [The University of Manchester](https://www.manchester.ac.uk/), [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de/db/Cms?pOid=44909&pNid=0&pLang=en), [University of Limerick](https://www.ul.ie/), [University of Tartu](https://ut.ee/en)
 
+
+### Supporters
+
+[ALBA Synchrotron](https://www.cells.es/en), [Bioconductor](https://bioconductor.org/), [BioFAIR](https://biofair.uk/), [ELIXIR Belgium](https://www.elixir-belgium.org/), [ELIXIR Europe](https://elixir-europe.org/), [Ersilia](https://www.ersilia.io/), [European Synchrotron Radiation Facility (ESRF)](https://esrf.fr/), [Helmholtz Metadata Collaboration (HMC) Hub Matter](https://helmholtz-metadaten.de/en), [OLS](https://we-are-ols.org/)
+
+
 ### Project team members
 Carole Goble (Principle Investigator, The University of Manchester), Oliver Knodel (Helmholtz-Zentrum Dresden-Rossendorf), Finn Bacall (The University of Manchester), Phil Reed (The University of Manchester), Munazah Andrabi (The University of Manchester), Maria Doyle (University of Limerick), Hedi Peterson (TARTU ULIKOOL)
