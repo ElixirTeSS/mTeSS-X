@@ -1,9 +1,10 @@
-- name: mTeSS-X kick-off
-  startDate: 2024-11-01
-  startTime: 14:00 CET
-  endDate: 2024-11-01
-  endTime: 17:00 CET
-  description: "The first mTeSS-X focus group meeting provided the launch of the project."
+
+- name: mTeSS-X focus group meeting 3
+  startDate: 2025-04-08
+  startTime: 14:00 CEST
+  endDate: 2025-04-08
+  endTime: 16:00 CEST
+  description: "The third mTeSS-X focus group meeting, details to follow."
   location: Zoom
 
 - name: mTeSS-X user requirements
@@ -14,10 +15,11 @@
   description: "The second mTeSS-X focus group meeting focused on user requirements gathering."
   location: Zoom
 
-- name: mTeSS-X focus group meeting 3
-  startDate: 2025-04-08
-  startTime: 14:00 CEST
-  endDate: 2025-04-08
-  endTime: 16:00 CEST
-  description: "The third mTeSS-X focus group meeting, details to follow."
+- name: mTeSS-X kick-off
+  startDate: 2024-11-01
+  startTime: 14:00 CET
+  endDate: 2024-11-01
+  endTime: 17:00 CET
+  description: "The first mTeSS-X focus group meeting provided the launch of the project."
   location: Zoom
+

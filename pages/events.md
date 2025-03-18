@@ -2,7 +2,7 @@
 title: Events
 ---
 
-{% include events.html caption=true title=true event_type="upcoming_event" truncate=true  %}
+{% include events.html  title=true event_type="upcoming_event" truncate=true  %}
 
 
 
