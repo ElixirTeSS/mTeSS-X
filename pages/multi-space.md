@@ -2,7 +2,10 @@
 title:  What do we mean by Multi-space/tenancy?
 ---
 
-**Objective mTeSS multi-tenancy: catalogues are pooled into a shared instance but look to their community as if they have their own catalogue with their own identity.**
+<div class="objective"><p>
+<span class="objname">Objective <strong><span class="u">m</span>TeSS</strong></span>: 
+catalogues are pooled into a shared instance but look to their community as if they have their own catalogue with their own identity.
+</p></div>
 
 <div class="row">
 <div class="col-12 col-md-6 col-lg-6">

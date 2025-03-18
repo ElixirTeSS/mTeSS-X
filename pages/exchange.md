@@ -2,7 +2,10 @@
 title: What do we mean by eXchange?
 ---
 
-**Objective TeSS-X: catalogues are implemented as separate instances and exchange content automatically.**
+<div class="objective"><p>
+<span class="objname">Objective <strong>TeSS-<span class="u">X</span></strong></span>: 
+catalogues are implemented as separate instances and exchange content automatically.
+</p></div>
 
 <div class="row">
 <div class="col-12 col-md-6 col-lg-6">

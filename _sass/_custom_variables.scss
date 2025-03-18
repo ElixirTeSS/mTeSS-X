@@ -3,3 +3,17 @@
 $font-family-theme: "PlusJakartaSans-VariableFont_wght", sans-serif;
 
 $topnav-bg: $dark;
+
+
+.objective {
+  color: $dark;
+  font-weight: 100;
+  font-size: xx-large;
+  .objname {
+    color: $primary;
+  }
+  .u {
+    border-bottom: thick solid $primary;
+    text-underline: none;
+  }
+}
