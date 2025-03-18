@@ -49,3 +49,26 @@ figure.graphic-objective {
     margin-right: auto;
     max-width: 70%;
 }
+
+
+/* Objectives for mTeSS and TeSS-X heading */
+
+.objective {
+    color: $dark;
+    font-weight: 100;
+    font-size: xx-large;
+    .objname {
+        color: $primary;
+    }
+    .u {
+        border-bottom: thick solid $primary;
+        text-underline: none;
+    }
+}
+
+/* logos of partners */
+.partners {
+    img {
+        max-height: 100px;
+    }
+}

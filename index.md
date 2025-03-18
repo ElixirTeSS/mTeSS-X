@@ -60,8 +60,23 @@ This will allow RIs and their communities to maintain tailored catalogues with d
 Life sciences, Photon/neutron sources-based experimental research
 
 ### Partners
+<div class="row partners">
+  <div class="col-6 col-md-3 col-lg-3">
+    <a href="https://www.manchester.ac.uk/" title="The University of Manchester"><img src="images/logos/uom.png" alt="The University of Manchester"  /></a>
+  </div>
+  <div class="col-6 col-md-3 col-lg-3">
+    <a href="https://www.hzdr.de/db/Cms?pOid=44909&pNid=0&pLang=en" title="Helmholtz-Zentrum Dresden-Rossendorf"><img src="images/logos/hzdr.png" alt="Helmholtz-Zentrum Dresden-Rossendorf" /></a>
+  </div>
+  <div class="col-6 col-md-3 col-lg-3">
+    <a href="https://www.ul.ie/" title="University of Limerick"><img src="images/logos/ul.png" alt="University of Limerick" /></a>
+  </div>
+  <div class="col-6 col-md-3 col-lg-3">
+    <a href="https://ut.ee/en" title="University of Tartu"><img src="images/logos/tartu.png" alt="University of Tartu" /></a>
+  </div>
+</div>
+<!--
 [The University of Manchester](https://www.manchester.ac.uk/), [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de/db/Cms?pOid=44909&pNid=0&pLang=en), [University of Limerick](https://www.ul.ie/), [University of Tartu](https://ut.ee/en)
-
+-->
 
 ### Supporters
 
