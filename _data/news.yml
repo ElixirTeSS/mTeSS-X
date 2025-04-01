@@ -10,3 +10,6 @@
 - name: Presentation at Physical Sciences Data Institute forum in Edinburgh, UK
   date: 2025-03-06
   description: "Phil Reed presents the mTeSS-X project to the [PSDI and DCC research data communities](https://www.psdi.ac.uk/event/research-data-forum-2025/). [doi:10.5281/zenodo.14987388](https://doi.org/10.5281/zenodo.14987388)"
+- name: Deliverable D1 published (requirements analysis)
+  date: 2025-03-31
+  description: "The first project deliverable D1 is published: [Requirements analysis based on the two TeSS instances from ELIXIR and PaNOSC](https://doi.org/10.5281/zenodo.15118417)"
