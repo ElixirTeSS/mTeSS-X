@@ -19,3 +19,6 @@
 - name: "Presentation at ISMB/ECCB 2025 in Liverpool, UK"
   date: 2025-07-23
   description: "Phil Reed presents the mTeSS-x project (and the wider context of TeSS) to the International Society for Computational Biology [ISMB/ECCB 2025 conference](https://www.iscb.org/ismbeccb2025/home), as poster D-037, to the Education Community of Special Interest. [doi:10.5281/zenodo.15835787](https://doi.org/10.5281/zenodo.15835787)"
+- name: "Presentation at Conference on Research Data Infrastructure (CoRDI) 2025 in Aachen, Germany"
+  date: 2025-08-26
+  description: "Oliver Knodel presents the mTeSS-X project at [CorDI 2025](https://www.nfdi.de/cordi-2025/) (RDM Infrastructure track, poster 97)"
