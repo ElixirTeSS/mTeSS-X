@@ -4,9 +4,6 @@ _site/
 .jekyll-metadata
 Gemfile.lock
 .idea/*
-.idea/workspace.xml
 */.DS_Store
 .DS_Store
-.DS_Store
 /.idea
-.idea/workspace.xml
