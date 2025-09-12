@@ -9,6 +9,8 @@ subitems:
     url: /events
   - title: News
     url: /news
+  - title: Global usage
+    url: /global
   - title: Contact us
     url: /contact
   - title: How to get involved
