@@ -1,0 +1,21 @@
+- name: ELIXIR TeSS (Training eSupport System)
+  url: https://tess.elixir-europe.org/
+  description: The original TeSS portal, computational resources for life sciences for ELIXIR Europe
+- name: Digital Research Skills Australasia (DReSA)
+  url: https://dresa.org.au/
+  description: Browsing, discovering and organising digital research events and training resources
+- name: PaN Training Catalogue
+  url: https://pan-training.eu/
+  description: Training for photon & neutron science around Europe
+- name: Taxila
+  url: https://taxila.nl/
+  description: Collection of trainers, events, and materials empowering research in the Netherlands
+- name: SciLifeLab Training Portal
+  url: https://training.scilifelab.se/
+  description: Training for life science professionals across Sweden
+- name: EVERSE Training
+  url: https://everse-training.app.cern.ch/
+  description: Training and events to foster research software quality in Europe
+- name: Explora
+  url: https://explora.alliancecan.ca/
+  description: Canadian digital research infrastructure training (Digital Research Alliance of Canada)
