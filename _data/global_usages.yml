@@ -1,12 +1,12 @@
 - name: ELIXIR TeSS (Training eSupport System)
   url: https://tess.elixir-europe.org/
   description: The original TeSS portal, computational resources for life sciences for ELIXIR Europe
-- name: Digital Research Skills Australasia (DReSA)
-  url: https://dresa.org.au/
-  description: Browsing, discovering and organising digital research events and training resources
 - name: PaN Training Catalogue
   url: https://pan-training.eu/
   description: Training for photon & neutron science around Europe
+- name: Digital Research Skills Australasia (DReSA)
+  url: https://dresa.org.au/
+  description: Browsing, discovering and organising digital research events and training resources
 - name: Taxila
   url: https://taxila.nl/
   description: Collection of trainers, events, and materials empowering research in the Netherlands
