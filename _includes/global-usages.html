@@ -4,7 +4,7 @@
     {% for usage in usages %}
     <div class="global-usage col d-grid">
         <div class=" bg-light p-2">
-            <h3 class="mt-0"><a href="{{ usage.url }}" target="_blank">{{ usage.name }}</a></h3>
+            <h3 class="mt-0 {{usage.icon}}"><a href="{{ usage.url }}" target="_blank">{{ usage.name }}</a></h3>
             <p>{{ usage.description }}</p>
         </div>
     </div>

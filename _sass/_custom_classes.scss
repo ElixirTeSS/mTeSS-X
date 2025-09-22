@@ -72,3 +72,36 @@ figure.graphic-objective {
         max-height: 100px;
     }
 }
+
+/* Global usages icons */
+.global-usage h3 {
+    background-image: url("/images/globe.svg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    min-height: 60px;
+    padding-right: 80px;
+}
+
+.global-usage .lsri {
+    background-image: url("/images/lsri.svg");
+}
+
+
+.global-usage .panosc {
+    background-image: url("/images/panosc.svg");
+}
+
+.global-usage .globe-east {
+    background-image: url("/images/globe-east.svg");
+}
+
+.global-usage .globe-west {
+    background-image: url("/images/globe-west.svg");
+}
+
+.global-usage .globe-centre {
+    background-image: url("/images/globe-centre.svg");
+}
+
+
+

@@ -1,5 +1,6 @@
 --- 
 title: Global usage
+toc: false
 ---
 
 TeSS is an open source, reusable software platform, and has been
