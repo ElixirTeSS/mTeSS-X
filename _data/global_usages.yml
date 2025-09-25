@@ -18,11 +18,15 @@
   url: https://training.scilifelab.se/
   description: Training for life science professionals across Sweden
   icon: globe-centre
-- name: EVERSE Training
-  url: https://everse-training.app.cern.ch/
-  description: Training and events to foster research software quality in Europe
-  icon: globe-centre
 - name: Explora
   url: https://explora.alliancecan.ca/
   description: Canadian digital research infrastructure training (Digital Research Alliance of Canada)
   icon: globe-west
+- name: HEP Training
+  url: https://training.cern.ch/
+  description: Training and events for the High Energy Physics community
+  icon: globe-centre
+- name: EVERSE Training
+  url: https://everse-training.app.cern.ch/
+  description: Training and events to foster research software quality in Europe
+  icon: globe-centre
