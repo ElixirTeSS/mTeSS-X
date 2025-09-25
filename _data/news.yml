@@ -13,6 +13,9 @@
 - name: Deliverable D1 published (requirements analysis)
   date: 2025-03-31
   description: "The first project deliverable D1 is published: [Requirements analysis based on the two TeSS instances from ELIXIR and PaNOSC doi:10.5281/zenodo.15120731](https://doi.org/10.5281/zenodo.15120731)"
+- name: Mention at WLCG/HSF Workshop 2025 in Paris, France
+  date: 2025-05-07
+  description: "Kenneth Rioja mentions the mTeSS-X project at [WLCG/HSF Workshop 2025](https://indico.cern.ch/event/1484669/contributions/6456385/) ([slides](https://indico.cern.ch/event/1484669/contributions/6456385/attachments/3061721/5416318/wlcghsf2025_eversetrainingrecognition_rioja.pdf))"
 - name: Presentation at ELIXIR All Hands Meeting 2025 in Thessaloniki, Greece
   date: 2025-06-02
   description: "Munazah Andrabi presents the mTeSS-X project to the [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2025), poster 32. [doi:10.7490/f1000research.1120226.1](https://doi.org/10.7490/f1000research.1120226.1)"
@@ -27,4 +30,4 @@
   description: "Phil Reed presents the mTeSS-X project at [CaSDaR launch](https://www.eventbrite.co.uk/e/careers-and-skills-for-data-driven-research-casdar-hybrid-event-launch-tickets-1496323607189) (poster)"
 - name: "Presentation at OSCARS Composability & AAI Workshop at CERN, Switzerland"
   date: 2025-09-22
-  description: "Kenneth Rioja presents the mTeSS-X project during the presentation of the [CERN EOSC node (ESCAPE)](https://indico.cern.ch/event/1527699/contributions/6681272/) (slides)"
+  description: "Kenneth Rioja presents the mTeSS-X project during the presentation of the [CERN EOSC node (ESCAPE)](https://indico.cern.ch/event/1527699/contributions/6681272/) ([slides](https://docs.google.com/presentation/d/1DoO65p8IngJey5T--5oR8yx_Q3LsaN2ytm4DuLyc2wo/edit?slide=id.g37c9f3cde38_0_194#slide=id.g37c9f3cde38_0_194))"
