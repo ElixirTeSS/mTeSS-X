@@ -7,7 +7,7 @@ topnav_title: mTeSS-X
 description: "mTeSS-X project"
 # Metadata description of the website
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@4.1.0
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@5.0.0
 
 exclude:
   - README.md
