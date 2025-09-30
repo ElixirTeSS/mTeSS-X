@@ -103,5 +103,15 @@ figure.graphic-objective {
     background-image: url("/mTeSS-X/images/globe-centre.svg");
 }
 
-
+/* Invert on hover (unfortunately there is an !important already on background-color */
+.global-usage .bg-light:has(a:hover) {
+    background-color: $primary !important;
+    color: $light;
+    a {
+        color: $light;
+    }
+    h3 {
+        filter: brightness(0) invert(1);
+    }
+}
 
