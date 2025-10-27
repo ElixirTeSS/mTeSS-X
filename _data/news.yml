@@ -31,3 +31,9 @@
 - name: "Presentation at OSCARS Composability & AAI Workshop at CERN, Switzerland"
   date: 2025-09-22
   description: "Kenneth Rioja presents the mTeSS-X project during the presentation of the [CERN EOSC node (ESCAPE)](https://indico.cern.ch/event/1527699/contributions/6681272/) ([slides](https://docs.google.com/presentation/d/1DoO65p8IngJey5T--5oR8yx_Q3LsaN2ytm4DuLyc2wo/edit?slide=id.g37c9f3cde38_0_194#slide=id.g37c9f3cde38_0_194))"
+- name: "Presentation at ELIXIR-UK All Hands Meeting in Exeter, UK"
+  date: 2025-10-23
+  description: "Phil Reed and Munazah Andrabi present the mTeSS-X project at [ELIXIR-UK All Hands Meeting](https://elixiruknode.org/event/elixir-uk-all-hands-2025/), poster 25"
+- name: "Presentation at Manchester Research Software Community in Manchester, UK"
+  date: 2025-10-29
+  description: "Phil Reed presents the documentation platform work of the mTeSS-X project at [The University of Manchester Research Software Community](https://research-it.manchester.ac.uk/events/manchester-research-software-community-oct-25/) meeting"
