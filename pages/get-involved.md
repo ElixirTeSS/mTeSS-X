@@ -17,7 +17,7 @@ To do this, we will arrange events such as the User Requirements Gathering meeti
 
 ### Slack
 
-* Join us on the [ELIXIR Slack Workspace](https://elixir-europe.slack.com/archives/C0262CVJSC9) channel #tess_club 
+* Join us on the [TeSS Platform Slack Workspace](https://join.slack.com/t/tessplatform/shared_invite/zt-3erpke7ph-6t2~_EqUlL_tRkOrNAbb2A) 
 
 
 ## Regular meetings
@@ -25,7 +25,7 @@ To do this, we will arrange events such as the User Requirements Gathering meeti
 ### TeSS Club
 
 * Every two weeks, 09:00 GMT/BST / 10:00 CET/CEST on a Tuesday.
-* [Meeting minutes and connection details](https://docs.google.com/document/d/1T6wAXRt-BCPK1Hy3zBimXAGQ2_8kn1iHIrFwF5msdko)
+* [Meeting minutes and connection details](https://docs.google.com/document/d/1nLa6ye6kYBuE0UJgRoqdSakZP94vb2RgQZssyvRCXig/edit?usp=sharing)
 
 ### TeSS project meeting
 

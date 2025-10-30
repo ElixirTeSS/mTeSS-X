@@ -67,11 +67,14 @@ Life sciences, Photon/neutron sources-based experimental research
   <div class="col-6 col-md-3 col-lg-3">
     <a href="https://www.hzdr.de/db/Cms?pOid=44909&pNid=0&pLang=en" title="Helmholtz-Zentrum Dresden-Rossendorf"><img src="images/logos/hzdr.png" alt="Helmholtz-Zentrum Dresden-Rossendorf" /></a>
   </div>
-  <div class="col-6 col-md-3 col-lg-3">
+  <div class="col-6 col-md-2 col-lg-2">
     <a href="https://www.ul.ie/" title="University of Limerick"><img src="images/logos/ul.png" alt="University of Limerick" /></a>
   </div>
-  <div class="col-6 col-md-3 col-lg-3">
+  <div class="col-6 col-md-2 col-lg-2">
     <a href="https://ut.ee/en" title="University of Tartu"><img src="images/logos/tartu.png" alt="University of Tartu" /></a>
+  </div>
+  <div class="col-6 col-md-2 col-lg-2">
+    <a href="https://home.cern/" title="CERN"><img src="images/logos/cern.svg" alt="CERN" /></a>
   </div>
 </div>
 <!--
@@ -84,4 +87,4 @@ Life sciences, Photon/neutron sources-based experimental research
 
 
 ### Project team members
-Carole Goble (Principle Investigator, The University of Manchester), Oliver Knodel (Helmholtz-Zentrum Dresden-Rossendorf), Finn Bacall (The University of Manchester), Phil Reed (The University of Manchester), Munazah Andrabi (The University of Manchester), Maria Doyle (University of Limerick), Hedi Peterson (TARTU ULIKOOL)
+Carole Goble (Principle Investigator, The University of Manchester), Oliver Knodel (Helmholtz-Zentrum Dresden-Rossendorf), Finn Bacall (The University of Manchester), Phil Reed (The University of Manchester), Munazah Andrabi (The University of Manchester), Kenneth Rioja (CERN), Maria Doyle (University of Limerick), Hedi Peterson (TARTU ULIKOOL)
