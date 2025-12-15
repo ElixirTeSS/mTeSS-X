@@ -46,3 +46,6 @@
 - name: "Presentation at Learning and Education Steering Committee (CERN), Switzerland"
   date: 2025-12-01
   description: "Kenneth Rioja presents the TeSS Training Platform and mTeSS-X to the [Learning and Education Steering Committee at CERN](https://indico.cern.ch/event/1609339/) [doi:10.5281/zenodo.17937392](https://doi.org/10.5281/zenodo.17937392)"
+- name: "Presentation at deRSE26 - Conference for Research Software Engineering in Germany"
+  date: 2026-03-03
+  description: "Oliver Knodel presents 'Building Bridges Between Scientific Domains – TeSSHub as a Federated Training Catalogue Infrastructure' at [deRSE26](https://events.hifis.net/event/2945/page/935-basic-timetable)"
