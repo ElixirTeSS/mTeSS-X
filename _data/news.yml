@@ -37,6 +37,9 @@
 - name: "Presentation at Manchester Research Software Community in Manchester, UK"
   date: 2025-10-29
   description: "Phil Reed presents the documentation platform work of the mTeSS-X project at [The University of Manchester Research Software Community](https://research-it.manchester.ac.uk/events/manchester-research-software-community-oct-25/) meeting"
+- name: "Feature in ELIXIR BioHackathon Europe project in Berlin, Germany"
+  date: 2025-11-03
+  description: "Phil Reed participated in project 18 [Mining the potential of knowledge graphs for metadata on training](https://github.com/elixir-europe/biohackathon-projects-2025/blob/main/18.md) featuring mTeSS-X [doi:10.37044/osf.io/gv2ac_v1](https://doi.org/10.37044/osf.io/gv2ac_v1)"
 - name: "Presentation at EIROforum Working Group online via CERN, Switzerland"
   date: 2025-11-20
   description: "Kenneth Rioja and Phil Reed present the TeSS Training Platform and mTeSS-X to the [EIROforum Working Group, Training and Career Development](https://indico.cern.ch/event/1499148/) [doi:10.5281/zenodo.17669661](https://doi.org/10.5281/zenodo.17669661)"
@@ -46,6 +49,9 @@
 - name: "Presentation at Learning and Education Steering Committee (CERN), Switzerland"
   date: 2025-12-01
   description: "Kenneth Rioja presents the TeSS Training Platform and mTeSS-X to the [Learning and Education Steering Committee at CERN](https://indico.cern.ch/event/1609339/) [doi:10.5281/zenodo.17937392](https://doi.org/10.5281/zenodo.17937392)"
+- name: "Feature in de.NBI 4th BioHackathon Germany in Walsrode, Germany"
+  date: 2025-12-01
+  description: "Oliver Knodel, Martin Voigt and Phil Reed participated in project 10 [On the path to machine actionable training materials](https://www.denbi.de/de-nbi-events/1939-4th-biohackathon-germany-on-the-path-to-machine-actionable-training-materials) featuring mTeSS-X"
 - name: "Presentation at deRSE26 - Conference for Research Software Engineering in Germany"
   date: 2026-03-03
   description: "Oliver Knodel presents 'Building Bridges Between Scientific Domains – TeSSHub as a Federated Training Catalogue Infrastructure' at [deRSE26](https://events.hifis.net/event/2945/page/935-basic-timetable)"
