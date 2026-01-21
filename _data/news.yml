@@ -52,6 +52,9 @@
 - name: "Feature in de.NBI 4th BioHackathon Germany in Walsrode, Germany"
   date: 2025-12-01
   description: "Oliver Knodel, Martin Voigt and Phil Reed participated in project 10 [On the path to machine actionable training materials](https://www.denbi.de/de-nbi-events/1939-4th-biohackathon-germany-on-the-path-to-machine-actionable-training-materials) featuring mTeSS-X"
+- name: "Presentation at EVERSE 2nd General Assembly (GAM) and Community Engagement Event at CERN, Switzerland"
+  date: 2026-02-03
+  description: "Kenneth Rioja presents how to use the TeSS platform including integration with [RSQKit](https://everse.software/RSQKit/) at [EVERSE GAM](https://indico.cern.ch/event/1597083/) and [EVERSE Community Engagement Event](https://indico.cern.ch/event/1606722/)."
 - name: "Presentation at deRSE26 - Conference for Research Software Engineering in Germany"
   date: 2026-03-03
   description: "Oliver Knodel presents 'Building Bridges Between Scientific Domains – TeSSHub as a Federated Training Catalogue Infrastructure' at [deRSE26](https://events.hifis.net/event/2945/page/935-basic-timetable)"
