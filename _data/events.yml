@@ -1,3 +1,19 @@
+- name: mTeSS-X metadata model workshop 2
+  startDate: 2026-03-30
+  startTime: 11:00 CEST
+  endDate: 2026-03-30
+  endTime: 15:00 CEST
+  description: "In this series, we are defining the metadata model used in the TeSS Platform for exchange with other training registries in any domain."
+  location: Online
+
+- name: mTeSS-X metadata model workshop 1
+  startDate: 2026-02-24
+  startTime: 14:00 CET
+  endDate: 2026-02-24
+  endTime: 17:00 CET
+  description: "In this series, we are defining the metadata model used in the TeSS Platform for exchange with other training registries in any domain."
+  location: Online
+
 - name: mTeSS-X focus group meeting 6
   startDate: 2026-01-27
   startTime: 14:00 CET
