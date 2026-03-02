@@ -57,7 +57,7 @@
   description: "Kenneth Rioja presents how to use the TeSS platform including integration with [RSQKit](https://everse.software/RSQKit/) at [EVERSE GAM](https://indico.cern.ch/event/1597083/) and [EVERSE Community Engagement Event](https://indico.cern.ch/event/1606722/)."
 - name: Deliverable D4 published (documentation)
   date: 2026-03-02
-  description: "The project deliverable D4 is published: [mTeSS-X Documentation doi:10.5281/zenodo.18834180]https://doi.org/10.5281/zenodo.18834180)"
+  description: "The project deliverable D4 is published: [mTeSS-X Documentation doi:10.5281/zenodo.18834180](https://doi.org/10.5281/zenodo.18834180)"
 - name: "Presentation at deRSE26 - Conference for Research Software Engineering in Germany"
   date: 2026-03-03
   description: "Oliver Knodel presents 'Building Bridges Between Scientific Domains – TeSSHub as a Federated Training Catalogue Infrastructure' at [deRSE26](https://events.hifis.net/event/2945/page/935-basic-timetable)"
