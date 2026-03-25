@@ -61,6 +61,9 @@
 - name: "Presentation at deRSE26 - Conference for Research Software Engineering in Germany"
   date: 2026-03-03
   description: "Oliver Knodel presents 'Building Bridges Between Scientific Domains – TeSSHub as a Federated Training Catalogue Infrastructure' at [deRSE26](https://events.hifis.net/event/2945/page/935-basic-timetable)"
+- name: Deliverable D3 published (exchange demo)
+  date: 2026-03-09
+  description: "The project deliverable D3 is published: [mTeSS-X Exchange Demo doi:10.5281/zenodo.18926348](https://doi.org/10.5281/zenodo.18926348)"
 - name: Presentation at 2nd OSCARS annual general meeting in Seville, Spain
   date: 2026-03-10
   description: "Oliver Knodel presents the mTeSS-X project at the [second OSCARS AGM](https://oscars-project.eu/events/2nd-oscars-annual-general-meeting). [doi:10.5281/zenodo.18773075](https://doi.org/10.5281/zenodo.18773075)"
