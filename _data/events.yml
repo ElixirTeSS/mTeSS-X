@@ -1,3 +1,11 @@
+- name: mTeSS-X focus group meeting 7 _and_ ELIXIR TeSS User, Stakeholder and Impact meeting
+  startDate: 2026-04-08
+  startTime: 14:00 CEST
+  endDate: 2026-04-08
+  endTime: 16:00 CEST
+  description: "The seventh mTeSS-X focus group meeting was shared with the _ELIXIR TeSS User, Stakeholder and Impact_ meeting, as an opportunity for cross-domain planning."
+  location: Zoom
+
 - name: mTeSS-X metadata model workshop 2
   startDate: 2026-03-30
   startTime: 11:00 CEST
