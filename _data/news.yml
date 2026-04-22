@@ -67,3 +67,6 @@
 - name: Presentation at 2nd OSCARS annual general meeting in Seville, Spain
   date: 2026-03-10
   description: "Oliver Knodel presents the mTeSS-X project at the [second OSCARS AGM](https://oscars-project.eu/events/2nd-oscars-annual-general-meeting). [doi:10.5281/zenodo.18773075](https://doi.org/10.5281/zenodo.18773075)"
+- name: "Presentation at ISCB-UK 2026 in Cambridge, UK"
+  date: 2026-04-21
+  description: "Phil Reed presents the mTeSS-x project (and the wider context of TeSS) to the International Society for Computational Biology [ISCB-UK 2026 conference](https://www.iscb.org/uk2026/home), as poster A-15. [doi:10.5281/zenodo.19696618](https://doi.org/10.5281/zenodo.19696618)"
