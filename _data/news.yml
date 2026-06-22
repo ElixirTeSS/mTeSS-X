@@ -67,6 +67,18 @@
 - name: Presentation at 2nd OSCARS annual general meeting in Seville, Spain
   date: 2026-03-10
   description: "Oliver Knodel presents the mTeSS-X project at the [second OSCARS AGM](https://oscars-project.eu/events/2nd-oscars-annual-general-meeting). [doi:10.5281/zenodo.18773075](https://doi.org/10.5281/zenodo.18773075)"
+- name: "Presentation at Bioschemas Community (online)"
+  date: 2026-04-20
+  description: "Phil Reed presents the mTeSS-x project (in the context of developing a metadata schema for learning paths) to monthly [Bioschemas Community call](https://bioschemas.org/meetings/)"
 - name: "Presentation at ISCB-UK 2026 in Cambridge, UK"
   date: 2026-04-21
   description: "Phil Reed presents the mTeSS-x project (and the wider context of TeSS) to the International Society for Computational Biology [ISCB-UK 2026 conference](https://www.iscb.org/uk2026/home), as poster A-15. [doi:10.5281/zenodo.19696618](https://doi.org/10.5281/zenodo.19696618)"
+- name: Presentation at ELIXIR All Hands Meeting 2026 in Lyon, France
+  date: 2026-06-08
+  description: "Phil Reed presents the mTeSS-X project to the [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2026), poster 95. [F1000](https://f1000research.com/posters/15-958)"
+- name: "Presentation at OpenAIRE Community of Practice Training Coordinators (online)"
+  date: 2026-06-17
+  description: "Phil Reed presents the mTeSS-x minimum metadata model (v0.1_DRAFT) to the [OpenAIRE CoP for training coordinators](https://www.openaire.eu/cop-training) monthly call, June 2026."
+- name: "Presentation at OER26 in Milton Keynes, UK"
+  date: 2026-06-23
+  description: "Phil Reed presents the mTeSS-x project to the Association for Learning Technology [OER26](https://www.alt.ac.uk/oer26) conference 'Openness Reimagined: Continuity, Change and Shared Vision' June 2026."
