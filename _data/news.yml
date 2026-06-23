@@ -78,7 +78,7 @@
   description: "The EOSC Gravity inter-projects begin, including [TeSSHub4EOSC](./tesshub4eosc), provision of a training registry for the EOSC nodes and science clusters."
 - name: Presentation at ELIXIR All Hands Meeting 2026 in Lyon, France
   date: 2026-06-08
-  description: "Phil Reed presents the mTeSS-X project to the [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2026), poster 95. [F1000](https://f1000research.com/posters/15-958)"
+  description: "Phil Reed presents the mTeSS-X project to the [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2026), poster 95. [doi:10.7490/f1000research.1120609.1](https://doi.org/10.7490/f1000research.1120609.1)"
 - name: "Presentation at OpenAIRE Community of Practice Training Coordinators (online)"
   date: 2026-06-17
   description: "Phil Reed presents the mTeSS-x minimum metadata model (v0.1_DRAFT) to the [OpenAIRE CoP for training coordinators](https://www.openaire.eu/cop-training) monthly call, June 2026."
