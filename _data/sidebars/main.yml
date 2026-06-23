@@ -11,6 +11,8 @@ subitems:
     url: /news
   - title: Global usage
     url: /global
+  - title: TeSSHub4EOSC
+    url: /tesshub4eosc
   - title: Contact us
     url: /contact
   - title: How to get involved

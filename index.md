@@ -28,6 +28,7 @@ The project strives to support the federation of training catalogues using a mul
 This will allow RIs and their communities to maintain tailored catalogues with distinct identities, while simultaneously benefiting from a shared global pool of resources.
 
 * [View the project page on the OSCARS website](https://www.oscars-project.eu/projects/mtess-x-scaling-training-portal-federation-ris-through-multi-tenanting-and-exchange)
+* [Learn about the follow-on EOSC Gravity inter-project 'TeSSHub4EOSC'](./tesshub4eosc)
 
 <div class="row index-splash">
   <div class="col-12 col-md-4 col-lg-4">

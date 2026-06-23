@@ -73,6 +73,9 @@
 - name: "Presentation at ISCB-UK 2026 in Cambridge, UK"
   date: 2026-04-21
   description: "Phil Reed presents the mTeSS-x project (and the wider context of TeSS) to the International Society for Computational Biology [ISCB-UK 2026 conference](https://www.iscb.org/uk2026/home), as poster A-15. [doi:10.5281/zenodo.19696618](https://doi.org/10.5281/zenodo.19696618)"
+- name: TeSSHub4EOSC project begins
+  date: 2026-05-06
+  description: "The EOSC Gravity inter-projects begin, including [TeSSHub4EOSC](./tesshub4eosc), provision of a training registry for the EOSC nodes and science clusters."
 - name: Presentation at ELIXIR All Hands Meeting 2026 in Lyon, France
   date: 2026-06-08
   description: "Phil Reed presents the mTeSS-X project to the [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2026), poster 95. [F1000](https://f1000research.com/posters/15-958)"
