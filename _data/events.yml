@@ -1,3 +1,19 @@
+- name: mTeSS-X focus group meeting 8 (final)
+  startDate: 2026-09-23
+  startTime: 14:00 CET
+  endDate: 2026-09-23
+  endTime: 15:00 CET
+  description: "The eigth and final mTeSS-X focus group meeting, including presentations of the project deliverables and a look ahead to TeSSHub4EOSC."
+  location: Zoom
+
+- name: mTeSS-X metadata model workshop 3
+  startDate: 2026-05-18
+  startTime: 11:00 CEST
+  endDate: 2026-05-18
+  endTime: 12:00 CEST
+  description: "In this series, we are defining the metadata model used in the TeSS Platform for exchange with other training registries in any domain."
+  location: Online
+
 - name: mTeSS-X focus group meeting 7 _and_ ELIXIR TeSS User, Stakeholder and Impact meeting
   startDate: 2026-04-08
   startTime: 14:00 CEST
