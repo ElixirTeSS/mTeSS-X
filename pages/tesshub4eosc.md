@@ -26,3 +26,17 @@ The primary outcome will be a central TeSSHub instance complementing [discipline
 ## Scientific Impact
 
 TeSSHub4EOSC directly supports EU Open Science policy and EOSC Federation objectives by tackling three critical priorities: data interoperability, FAIR compliance, and cross-disciplinary training access. The project aligns with the EU’s Digital Decade targets and the European Research Area (ERA) Policy Agenda, both of which call for seamless access to research data and infrastructures. By consolidating fragmented training resources into a unified, FAIR-aligned catalogue, it ensures that training materials are findable, accessible, interoperable, and reusable across European research infrastructures.
+
+
+## Visualisation
+
+{% include image.html file="tesshub-graphic.png" alt="Graphic of TeSSHub relationships" class="" %}
+
+The image above shows a graphical representation of the relationshop between TeSSHub instances.
+
+- ELIXIR TeSSHub is the home of ELIXIR TeSS. It has Spaces for PaN-Training and Bioconductor. 
+- PaN-Training TeSSHub is the home of PaN-Training. It has Spaces for ELIXIR, DALIA, OERSI and others. 
+- TeSSHub4EOSC is an outcome of the TeSSHub4EOSC project. It will have Spaces for EOSC Nodes including PaNOSC, Life Sciences Connect, and a curated set of national and infrastructure Nodes. (The graphic shows SURF/Netherlands as one possibility.) 
+
+TeSSHub4EOSC will be a central instance, integrated with EOSC-AAI for authentication, and the pilot onboarding of the service into existing EOSC Nodes, demonstrating a concrete, working example of federation in practice.
+
