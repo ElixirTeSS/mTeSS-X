@@ -34,8 +34,8 @@ TeSSHub4EOSC directly supports EU Open Science policy and EOSC Federation object
 
 The image above shows a graphical representation of the relationshop between TeSSHub instances.
 
-- ELIXIR TeSSHub is the home of ELIXIR TeSS. It has Spaces for PaN-Training and Bioconductor. 
-- PaN-Training TeSSHub is the home of PaN-Training. It has Spaces for ELIXIR, DALIA, OERSI and others. 
+- [ELIXIR TeSSHub](https://tesshub.org/) is the home of [ELIXIR TeSS](https://tess.elixir-europe.org/). It has Spaces for [PaN-Training](https://pan-training.tesshub.org/) and [Bioconductor](https://bioconductor.tesshub.org/). 
+- [PaN-Training TeSSHub](https://pan-training.tesshub.hzdr.de/) is the home of PaN-Training. It has Spaces for ELIXIR, [DALIA](https://dalia.tesshub.hzdr.de/), [OERSI](https://oersi.tesshub.hzdr.de/) and others. 
 - TeSSHub4EOSC is an outcome of the TeSSHub4EOSC project. It will have Spaces for EOSC Nodes including PaNOSC, Life Sciences Connect, and a curated set of national and infrastructure Nodes. (The graphic shows SURF/Netherlands as one possibility.) 
 
 TeSSHub4EOSC will be a central instance, integrated with EOSC-AAI for authentication, and the pilot onboarding of the service into existing EOSC Nodes, demonstrating a concrete, working example of federation in practice.
