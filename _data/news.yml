@@ -85,3 +85,6 @@
 - name: "Presentation at OER26 in Milton Keynes, UK"
   date: 2026-06-23
   description: "Phil Reed presents the mTeSS-x project to the Association for Learning Technology [OER26](https://www.alt.ac.uk/oer26) conference 'Openness Reimagined: Continuity, Change and Shared Vision' June 2026."
+- name: "Presentation at PATH2EOSCUK competence centre workshop"
+  date: 2026-08-12
+  description: "Phil Reed presents the mTeSS-x project as part of a national discussion to collaboratively identify possible approaches for coordinating UK training activities relevant to EOSC."
