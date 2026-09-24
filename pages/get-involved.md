@@ -24,10 +24,16 @@ To do this, we will arrange events such as the User Requirements Gathering meeti
 
 ### TeSS Club
 
-* Every two weeks, 09:00 GMT/BST / 10:00 CET/CEST on a Tuesday.
+* Every month, 09:00 GMT/BST / 10:00 CET/CEST on the first Tuesday.
 * [Meeting minutes and connection details](https://docs.google.com/document/d/1nLa6ye6kYBuE0UJgRoqdSakZP94vb2RgQZssyvRCXig/edit?usp=sharing)
 
 ### TeSS project meeting
 
 * Every Monday, 09:00 GMT/BST / 10:00 CET/CEST
 * [Contact us to join the project meetings](contact)
+
+### TeSS developer meeting
+
+* Every Wednesday, 13:00 GMT/BST / 14:00 CET/CEST
+* [Contact us to join the project meetings](contact)
+
