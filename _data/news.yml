@@ -69,10 +69,10 @@
   description: "Oliver Knodel presents the mTeSS-X project at the [second OSCARS AGM](https://oscars-project.eu/events/2nd-oscars-annual-general-meeting). [doi:10.5281/zenodo.18773075](https://doi.org/10.5281/zenodo.18773075)"
 - name: "Presentation at Bioschemas Community (online)"
   date: 2026-04-20
-  description: "Phil Reed presents the mTeSS-x project (in the context of developing a metadata schema for learning paths) to monthly [Bioschemas Community call](https://bioschemas.org/meetings/)"
+  description: "Phil Reed presents the mTeSS-X project (in the context of developing a metadata schema for learning paths) to monthly [Bioschemas Community call](https://bioschemas.org/meetings/)"
 - name: "Presentation at ISCB-UK 2026 in Cambridge, UK"
   date: 2026-04-21
-  description: "Phil Reed presents the mTeSS-x project (and the wider context of TeSS) to the International Society for Computational Biology [ISCB-UK 2026 conference](https://www.iscb.org/uk2026/home), as poster A-15. [doi:10.5281/zenodo.19696618](https://doi.org/10.5281/zenodo.19696618)"
+  description: "Phil Reed presents the mTeSS-X project (and the wider context of TeSS) to the International Society for Computational Biology [ISCB-UK 2026 conference](https://www.iscb.org/uk2026/home), as poster A-15. [doi:10.5281/zenodo.19696618](https://doi.org/10.5281/zenodo.19696618)"
 - name: TeSSHub4EOSC project begins
   date: 2026-05-06
   description: "The EOSC Gravity inter-projects begin, including [TeSSHub4EOSC](./tesshub4eosc), provision of a training registry for the EOSC nodes and science clusters."
@@ -81,10 +81,13 @@
   description: "Phil Reed presents the mTeSS-X project to the [ELIXIR All Hands Meeting](https://elixir-europe.org/events/elixir-all-hands-2026), poster 95. [doi:10.7490/f1000research.1120609.1](https://doi.org/10.7490/f1000research.1120609.1)"
 - name: "Presentation at OpenAIRE Community of Practice Training Coordinators (online)"
   date: 2026-06-17
-  description: "Phil Reed presents the mTeSS-x minimum metadata model (v0.1_DRAFT) to the [OpenAIRE CoP for training coordinators](https://www.openaire.eu/cop-training) monthly call, June 2026."
+  description: "Phil Reed presents the mTeSS-X minimum metadata model (v0.1_DRAFT) to the [OpenAIRE CoP for training coordinators](https://www.openaire.eu/cop-training) monthly call, June 2026."
 - name: "Presentation at OER26 in Milton Keynes, UK"
   date: 2026-06-23
-  description: "Phil Reed presents the mTeSS-x project to the Association for Learning Technology [OER26](https://www.alt.ac.uk/oer26) conference 'Openness Reimagined: Continuity, Change and Shared Vision' June 2026."
+  description: "Phil Reed presents the mTeSS-X project to the Association for Learning Technology [OER26](https://www.alt.ac.uk/oer26) conference 'Openness Reimagined: Continuity, Change and Shared Vision' June 2026."
+- name: "Presentation at BioC2026 in Seattle, US"
+  date: 2026-08-10
+  description: "Jenny Dmevich (Bioconductor Training Committee co-chair) demonstrated the Bioconductor TeSSHub space at the [BioC2026](https://bioc2026.bioconductor.org/) Bioconducctor conference in Seattle, WA, United States."
 - name: "Presentation at PATH2EOSCUK competence centre workshop"
   date: 2026-08-12
-  description: "Phil Reed presents the mTeSS-x project as part of a national discussion to collaboratively identify possible approaches for coordinating UK training activities relevant to EOSC."
+  description: "Phil Reed presents the mTeSS-X project as part of a national discussion to collaboratively identify possible approaches for coordinating UK training activities relevant to EOSC."
