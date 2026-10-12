@@ -91,3 +91,9 @@
 - name: "Presentation at PATH2EOSCUK competence centre workshop"
   date: 2026-08-12
   description: "Phil Reed presents the mTeSS-X project as part of a national discussion to collaboratively identify possible approaches for coordinating UK training activities relevant to EOSC."
+- name: "EOSC Gravity internal deliverable D1: TeSSHub4EOSC Minimum metadata model attributes"
+  date: 2026-10-12
+  description: "Minimum set of metadata for training materials, describing the attributes at version 1.0. [doi:10.5281/zenodo.23270021](https://doi.org/10.5281/zenodo.23270021)"
+- name: "EOSC Gravity internal deliverable D2: TeSSHub4EOSC Documentation"
+  date: 2026-10-12
+  description: "Documentation (for Users, Developers, Provider) described [doi:10.5281/zenodo.23278042](https://doi.org/10.5281/zenodo.23278042)"

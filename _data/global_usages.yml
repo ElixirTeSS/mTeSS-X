@@ -30,3 +30,7 @@
   url: https://everse-training.app.cern.ch/
   description: Training and events to foster research software quality in Europe
   icon: globe-centre
+- name: TeSSHub4EOSC
+  url: https://tesshub4eosc.eu/
+  icon: globe-centre
+  description: Pilot hub of community-managed training catalogues for EOSC Nodes.
