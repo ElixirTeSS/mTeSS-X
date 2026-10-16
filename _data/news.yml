@@ -97,3 +97,6 @@
 - name: "EOSC Gravity internal deliverable D2: TeSSHub4EOSC Documentation"
   date: 2026-10-12
   description: "Documentation (for Users, Developers, Provider) described [doi:10.5281/zenodo.23278042](https://doi.org/10.5281/zenodo.23278042)"
+- name: "Presentation at EOSC Symposium 2026 in Florence, Italy"
+  date: 2026-10-14
+  description: "Phil Reed presents the TeSSHub4EOSC project to the [EOSC Symposium 2026](https://eosc.eu/symposium-2026) as a FAIR training catalogue infrastructure suitable for federation. [Prerecorded video on YouTube](https://youtu.be/2TbZFGqle38). [doi:10.5281/zenodo.23423757](https://doi.org/10.5281/zenodo.23423757)"
