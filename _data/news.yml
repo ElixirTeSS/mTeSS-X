@@ -85,6 +85,9 @@
 - name: "Presentation at OER26 in Milton Keynes, UK"
   date: 2026-06-23
   description: "Phil Reed presents the mTeSS-X project to the Association for Learning Technology [OER26](https://www.alt.ac.uk/oer26) conference 'Openness Reimagined: Continuity, Change and Shared Vision' June 2026."
+- name: "TeSSHub metadata model v1.0.0 released"
+  date: 2026-07-20
+  description: "Minimum metadata model and all-to-all exchange for the TeSS Platform, suitable for federation with EOSC. [doi:10.5281/zenodo.21176105](https://doi.org/10.5281/zenodo.21458540)"
 - name: "Presentation at BioC2026 in Seattle, US"
   date: 2026-08-10
   description: "Jenny Dmevich (Bioconductor Training Committee co-chair) demonstrated the Bioconductor TeSSHub space at the [BioC2026](https://bioc2026.bioconductor.org/) Bioconducctor conference in Seattle, WA, United States."
